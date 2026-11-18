@@ -1,0 +1,20 @@
+body{
+    font-family:Arial,sans-serif;
+    padding: 24px;
+    background:#f4f4f4;
+
+}
+#heading{
+    color:#222;
+}
+#changeBtn{
+     Background:#3280d3;
+     color:white;
+     border:none;
+     border-radius:6px;
+     padding:10px 18px;
+     cursor:pointer;
+}
+#changeBtn:hover{
+    background:rgb(199, 61, 130);
+}
